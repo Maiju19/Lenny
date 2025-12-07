@@ -80,6 +80,12 @@ body p {
     text-align: center;
 }
 
+@media (max-width: 600px) {
+  .container {
+    max-width: 100%; /* tai 90% */
+    padding: 0 20px;
+  }
+
 .responsive {
     width: 100%;
     height: auto;
@@ -90,6 +96,7 @@ body p {
     width: 50%;
     height: auto;
 }
+
 
 
 
