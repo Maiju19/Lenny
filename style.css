@@ -9,7 +9,7 @@ body.centered {
     flex-direction: column;
     justify-content: center;   /* pystysuuntainen keskitys */
     align-items: center;       /* vaakasuuntainen keskitys */
-    height: 100vh;             /* 100 % näkymän korkeudesta */
+    height: 75vh;             /* 100 % näkymän korkeudesta */
     margin: 0;
     text-align: center;
 }
@@ -89,4 +89,5 @@ body p {
     width: 50%;
     height: auto;
 }
+
 
